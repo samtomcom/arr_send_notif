@@ -1,1 +1,1 @@
-python D:\code\arr_post_process\arr_post_process.py
+python D:\code\arr_send_notif\arr_send_notif.pyw
